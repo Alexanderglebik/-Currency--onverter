@@ -1,0 +1,32 @@
+*{
+    font-family: 'Bebas Neue', cursive;
+    user-select: none;
+}
+
+  .name {
+    font-size: 40px;
+    width: 100%;
+    text-align: center;  
+}
+
+.table__container {
+    width: 30%;
+    margin: 0 auto;
+}
+
+.form-controls {
+    display: flex;
+}
+
+.style-text {
+    font-size: 30px;
+    width: 100%;
+    align-items: center;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0;
+}
